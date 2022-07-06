@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReceiveMessageActivity</string>
+    <string name="act_button">Receive message</string>
+    <string name="lable">enter message</string>
+</resources>

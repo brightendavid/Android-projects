@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">so</string>
+    <string name="result_text">input</string>
+    <string name="label_text">check the password</string>
+</resources>

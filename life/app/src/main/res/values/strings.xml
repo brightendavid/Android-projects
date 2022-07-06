@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">life</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="change">Change</string>
+    <string name="title">浙江工商大学无线登录系统</string>
+</resources>

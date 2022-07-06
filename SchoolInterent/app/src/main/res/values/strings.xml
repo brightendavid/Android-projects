@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">School Interent</string>
+    <string name="title">浙江工商大学无线网络登录</string>
+    <string name="enter">登录</string>
+    <string name="concle">取消</string>
+    <string name="name">用户名</string>
+    <string name="password">密码</string>
+
+
+</resources>

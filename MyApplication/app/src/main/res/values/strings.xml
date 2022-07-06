@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">宋佳维 1912190125</string>
+    <string name="find_language">Find Language</string>
+    <string name="language">Select and Click</string>
+
+    <string-array name="feature"> // 字符串数组 @array
+        <item>fast</item>
+        <item>easy</item>
+        <item>new</item>
+        <item>sjw</item>
+        <item>00</item>
+    </string-array>
+</resources>
+

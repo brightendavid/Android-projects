@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messager</string>
+    <string name="send">send a message</string>
+    <string name="hint">enter a message</string>
+    <string name="output">2nd activity</string>
+    <string name="choose">choose intent</string>
+</resources>
